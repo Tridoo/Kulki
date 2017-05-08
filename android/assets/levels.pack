@@ -1,0 +1,26 @@
+
+levels.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lv.down
+  rotate: false
+  xy: 0, 0
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+lv.off
+  rotate: false
+  xy: 150, 0
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+lv.up
+  rotate: false
+  xy: 300, 0
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1

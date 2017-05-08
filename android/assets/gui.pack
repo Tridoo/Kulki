@@ -1,0 +1,33 @@
+
+gui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+next
+  rotate: false
+  xy: 0, 0
+  size: 257, 80
+  orig: 257, 80
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 257, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 337, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 417, 1
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
